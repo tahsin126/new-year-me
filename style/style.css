@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#hero{
+    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url('../images/Banner\ Image.png');
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1056px;
+    height: 480px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+     
+}
+#hero .hero-content{
+    width: 490px;
+    
+}
+#hero .sub{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+#hero .title{
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 56px;
+font-weight: 775;
+line-height: 77px;
+letter-spacing: 0%;
+text-align: center;
+}
+#banner{
+    margin-top: 20px;
+    margin-left: 200px;
+    justify-content: center;
+    align-items: center;
+   width: 620px;
+   height: 620px;
+}
+#banner .off-content{
+    text-align: center;
+}
+.newphoto{
+    width: 500px;
+    margin-top: 20px;
+}
+
+#banner .title{
+    
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 65px;
+font-weight: 550;
+line-height: 80px;
+letter-spacing: 0%;
+text-align: center;
+}
+#banner .description{
+    margin-top: 18px;
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 14px;
+font-weight: 200;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+}
+#banner .second-title{
+    
+    color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 28px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0%;
+text-align: center;
+}
+#banner3{
+
+   display: flex;
+   justify-content: center;
+   border-radius: 9px;
+   background: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url("../images/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1056px;
+    height: 480px;
+    margin-bottom: 20px;
+}
+#banner3 .banner3-content{
+    padding-top: 100px;
+    margin-right: 150px;
+   
+}
+#banner3 .banner3-title{
+    
+    width: 442px;
+    height: 120px;
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 50px;
+    font-weight: 650;
+    line-height: 58px;
+    letter-spacing: 10%;
+    text-align: left;
+}
+#banner3 .banner3-description{
+    
+    width: 497px;
+    height: 40px;
+    color: rgba(255, 255, 255, 0.8);
+font-family: Inter;
+font-size: 12px;
+font-weight: 250;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+}
+#banner3 .banner3-sub{
+    padding:40px 0 0 10px;
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+
+text-transform: uppercase;
+}
+#banner3 .banner3-logo{
+   background: transparent;
+   
+   width: 185px;
+   margin-top: 65px;
+   
+}
