@@ -146,3 +146,353 @@ text-transform: uppercase;
    margin-top: 65px;
    
 }
+#address{
+    margin-bottom: 20px;;
+    border: 1px solid rgb(255, 255, 255);
+border-radius: 16px;
+
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+    width: 1056px;
+    height: 480px;
+    justify-content: center;
+    align-items: center;
+}
+#address .address-content{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 200px;
+    font-family: sans-serif;
+font-size: 20px;
+font-weight: 180;
+
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+line-height: 25px;
+}
+#address .txclr{
+    color: rgb(255, 0, 0);
+    padding-bottom: 20px;
+}
+#address .jbtn{
+    width: 90px;
+    height: 22px;
+    gap: 10;
+    margin-top: 20px;
+    border: none;
+    border-radius: 4px;
+    background: rgb(255, 0, 0);
+    color: #ffffff;
+}   
+#banner4{
+    
+    width: 1056px;
+    height: 480px;
+    margin-top: 80px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+}
+/* #banner4 .banner4-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+} */
+#banner4 .banner4-sec1{
+    width: 200px;
+    height: 100px;
+    padding-left: 50px;
+    align-items: center;
+    
+    
+}
+.banner4-title{
+    
+}
+#banner4 .banner4-sec2{
+    width: 150px;
+    height: 50px;
+    align-items: center;
+   margin-right: 250px;
+    margin-bottom: 300px;
+    
+}
+#banner4 .banner4-sec3{
+    width: 200px;
+    height: 100px;
+    align-items: center; 
+    padding-right: 50px;
+    
+}
+#banner4 .banner4-title{
+    color: rgb(255, 0, 0);
+font-family:  sans-serif;
+font-size: 16px;
+font-weight: bold;
+line-height: 15px;
+letter-spacing: 0%;
+text-align: center;
+}
+#banner4 .banner4-title2{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 30px;
+font-weight: 600;
+line-height: 49px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+#banner4 .banner4-description{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 12px;
+font-weight: 180;
+line-height: 18px;
+letter-spacing: 0%;
+text-align: left;
+}
+#banner4 .title4{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+#banner4 .description2{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+}
+#banner4 .img2{
+ width: 80px;
+ height: 75px;
+}
+#sec4{
+    width: 1056px;
+    height: 680px;
+    
+}
+#sec4 .sec4-content{
+  
+width: 600px;
+height: 100px;
+justify-content: center;
+align-items: center;
+margin-left: 250px;
+padding-left: 20px;
+
+}
+
+#sec4 .title1{
+ padding-top: 10px;
+ color: rgb(7, 2, 17);
+    font-family: Inter;
+font-size: 16px;
+font-weight: bold;
+line-height: 18px;
+letter-spacing: 0%;
+text-align: center;
+}
+#sec4 .title2{
+    font-family: Merriweather;
+font-size: 52px;
+font-weight: 900;
+line-height: 41px;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 20px;
+}
+
+#sec4 .description1{
+    padding-top: 20px;
+    color: rgba(7, 2, 17, 0.6);
+    text-align: center;
+}
+#sec4 .txclr{
+    color: rgb(255, 0, 0);
+}
+#sec4 .photos{
+    width: 1080px;
+    height: 100px;
+}
+#sec4 .content{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 200px;
+}
+#sec4 .left-iamge{
+    padding-top: 130px;
+    position: absolute;
+     width: 370px;
+     height: 270px;
+}
+#sec4 .right-iamge {
+ width: 200px;
+ height: 200px;
+padding-left: 500px;
+padding-bottom: 110px;
+}
+#sec4 .bottom-iamge{
+    width: 1080px;
+    height: 130px;
+    object-fit: cover;
+}
+#sec5{
+    margin-top: 100px;
+    width: 1080px;
+    height: 900px;
+}
+#sec5 .sec5-heading{
+    margin-left: 5px;
+   
+}
+#sec5 .title1{
+    width: 150px;
+    height: 18px;
+    color: rgb(255, 0, 0);
+font-family: sans-serif;
+font-size: 16px;
+font-weight: bold;
+line-height: 18px;
+letter-spacing: 0%;
+text-align: left;
+}
+#sec5 .title2{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 28px;
+font-weight: bold;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+#sec5 .description{
+    color: rgba(7, 2, 17, 0.6);
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+}
+#sec5 .sec5-box{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    
+}
+#sec5 .phth{
+    width: 100%;
+    height: 100%;
+}
+#sec6 {
+    display: flex;
+    flex-direction: column;
+    width: 1080px;
+    height: 480px;
+    border-radius: 16px;
+    justify-content: center;
+    align-content: center;
+background: rgba(255, 0, 0, 0.05);
+}
+#sec6 .icon{
+    width: 100px;
+    height: 100px;
+    margin-left: 450px;
+    padding-bottom: 75px;
+}
+
+#sec6 .title{
+    width: 450px;
+    height: 35px;
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 20px;
+font-weight: bold;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+margin-left: 300px
+}
+#sec6 .description{
+    width: 450px;
+    height: 40px;
+    text-align: center;
+    margin-left: 300px;
+    margin-bottom: 120px;
+}
+#sec6 .subscribe{
+    width: 400px;
+    
+   display: flex;
+   align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+  margin-left: 300px;
+}
+.subscribe input{
+    flex: 1;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 50px 0 0 50px;
+    font-size: 16px;
+    outline: none;
+    color: #aaaaaa;
+}
+.subscribe button{
+    padding: 10px 20px;
+    border: none;
+    background-color: #ff0000;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 0 50px 50px 0;
+}
+#foot{
+    background-color:rgb(7, 2, 17) ;
+    width: 800px;
+    height: 480px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding: 140px;
+}
+#foot p{
+    color: rgb(255, 255, 255);
+    padding: 4px;
+}
+#foot .address{
+    width: 250px;
+}
+#foot .phon{
+ 
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+}
+#foot .icon{
+    width: 250px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    margin-top: 250px;
+}
